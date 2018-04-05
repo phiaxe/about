@@ -1,0 +1,45 @@
+a {
+  color: rgb(110, 110, 110)
+}
+
+body {
+  font-family: monospace;
+  font-size: 1.4rem;
+}
+
+header {
+  background-color: rgb(236, 236, 236);
+  overflow: hidden;
+}
+
+header nav {
+  font-size: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+main {
+  margin: 5% 5% 15% 5%;
+}
+
+footer {
+  overflow: hidden;
+  text-align: center;
+  color: rgb(99, 99, 99);
+}
+
+h1 {
+  color: rgb(99, 99, 99);
+  font-size: 4rem;
+  text-align: center;
+}
+
+h2 {
+  color: rgb(87, 87, 87);
+}
+
+h3 {
+  color: rgb(87, 87, 87);
+}
